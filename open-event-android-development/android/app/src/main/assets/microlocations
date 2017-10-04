@@ -1,0 +1,58 @@
+[
+    {
+        "id": 557, 
+        "name": "Beaumont", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 558, 
+        "name": "Coronet", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 559, 
+        "name": "Orchid", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 560, 
+        "name": "Senate Hall", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 561, 
+        "name": "The Dominion", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 562, 
+        "name": "The Embassy", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 563, 
+        "name": "Utsav", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }
+]

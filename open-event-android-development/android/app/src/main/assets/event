@@ -1,0 +1,109 @@
+{
+    "id": 299, 
+    "name": "India MASTERs 2017", 
+    "latitude": 12.9715987, 
+    "longitude": 77.5945627, 
+    "location-name": "28, Sankey Road, Opposite Bangalore Golf Club, Vasanth Nagar, Bengalore KA India 560052 ", 
+    "starts-at": "2017-12-05T09:00:00+05:30", 
+    "ends-at": "2017-12-08T20:00:00+05:30", 
+    "timezone": "Asia/Kolkata", 
+    "description": "<span style=\"\">Come and join Microchip at one of the 2017 MASTERs Conference locations and experience the premier technical training event for embedded control engineers around the globe. The MASTERs Conference continues to arm system design engineers of every level with extensive product information and hands-on training to help you scale the learning curve and get your products to market faster. Classes cover a broad range of topics and are taught by Microchip’s application and design engineers. Come learn from the same people who have designed the products you will use in class and walk out with everything you need to get up and running on your new design. Don’t miss your opportunity to attend one of these Conferences!</span><p></p>", 
+    "background-image": "/images/background.png.png", 
+    "logo": "/images/logo.png.png", 
+    "organizer-name": "Microchip Technology India Pvt. Ltd.", 
+    "organizer-description": "<p>Microchip Technology Inc. is a leading provider of microcontroller and analog semiconductors, providing low-risk product development, lower total system cost and faster time to market for thousands of diverse customer applications worldwide.</p>", 
+    "event-url": "", 
+    "social-links": [
+        {
+            "id": 219, 
+            "link": "https://www.facebook.com/microchiptechnology/", 
+            "name": "Facebook"
+        }, 
+        {
+            "id": 220, 
+            "link": "https://twitter.com/MicrochipTech", 
+            "name": "Twitter"
+        }, 
+        {
+            "id": 221, 
+            "link": "https://www.youtube.com/user/MicrochipTechnology", 
+            "name": "Youtube"
+        }, 
+        {
+            "id": 222, 
+            "link": "https://www.flickr.com/photos/microchiptechnology/", 
+            "name": "Flickr"
+        }, 
+        {
+            "id": 223, 
+            "link": "https://github.com/MicrochipTech", 
+            "name": "GitHub"
+        }, 
+        {
+            "id": 224, 
+            "link": "https://in.linkedin.com/company/microchip-technology", 
+            "name": "LinkedIn"
+        }, 
+        {
+            "id": 225, 
+            "link": "https://plus.google.com/+MicrochipTech", 
+            "name": "Google Plus"
+        }, 
+        {
+            "id": 226, 
+            "link": "https://en.wikipedia.org/wiki/Microchip_Technology", 
+            "name": "Wikipedia"
+        }, 
+        {
+            "id": 227, 
+            "link": "http://microchipdeveloper.com/", 
+            "name": "Blog"
+        }
+    ], 
+    "ticket-url": "", 
+    "privacy": "public", 
+    "type": "Conference", 
+    "topic": "Science & Technology", 
+    "sub-topic": "High Tech", 
+    "code-of-conduct": "", 
+    "copyright": {
+        "holder": "Microchip Technology India Pvt. Ltd.", 
+        "holder-url": null, 
+        "licence": "All rights reserved", 
+        "licence-url": "https://en.wikipedia.org/wiki/All_rights_reserved", 
+        "logo": "", 
+        "year": 2017
+    }, 
+    "call_for_papers": {
+        "announcement": "<p>TBD</p>", 
+        "ends-at": "2017-11-01T10:30:00+05:30", 
+        "privacy": "public", 
+        "starts-at": "2017-11-01T10:00:00+05:30", 
+        "timezone": "Asia/Kolkata"
+    }, 
+    "email": null, 
+    "has-session-speakers": true, 
+    "identifier": "97eddbfc", 
+    "large": "https://storage.googleapis.com/eventyay.com/events/299/large/YzVMS2FkNk/large", 
+    "licence-details": {
+        "compact-logo": "", 
+        "description": "The copyright holder reserves, or holds for their own use, all the rights provided by copyright law under one specific copyright treaty.", 
+        "logo": "", 
+        "long-name": "All rights reserved", 
+        "name": "All rights reserved", 
+        "url": "https://en.wikipedia.org/wiki/All_rights_reserved"
+    }, 
+    "placeholder-url": "https://eventyay.com/static/placeholders/HighTech.jpg", 
+    "schedule-published_on": null, 
+    "searchable-location-name": "Bengaluru", 
+    "state": "Draft", 
+    "thumbnail": "https://storage.googleapis.com/eventyay.com/events/299/thumbnail/bDdOckRabz/thumbnail", 
+    "version": {
+        "event-ver": 0, 
+        "microlocations_ver": 0, 
+        "sessions-ver": 522, 
+        "speakers-ver": 0, 
+        "sponsors-ver": 0, 
+        "tracks-ver": 0
+    }
+}

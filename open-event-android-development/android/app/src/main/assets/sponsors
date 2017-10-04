@@ -1,0 +1,92 @@
+[
+    {
+        "id": 423, 
+        "name": "Excelpoint Technology Ltd", 
+        "logo-url": "/images/sponsors/ExcelpointTechnologyLtd_423.png.png", 
+        "level": "3", 
+        "type": "Platinum Sponser", 
+        "url": "https://www.excelpoint.com", 
+        "description": "<p>Excelpoint Technology Ltd (“Excelpoint” or the “Group”) is a leading regional electronics components distributor providing quality components, engineering design services and supply chain management to original equipment manufacturers (“OEM”), original design manufacturers (“ODM”) and electronics manufacturing services (“EMS”) in the Asia Pacific region. It ranks among the Top 25 Global Electronics Distributors List from EBN in 2017. </p>"
+    }, 
+    {
+        "id": 428, 
+        "name": "Digi-Key", 
+        "logo-url": "/images/sponsors/Digi-Key_428.png.png", 
+        "level": "2", 
+        "type": "Gold Sponser", 
+        "url": "https://www.digikey.in", 
+        "description": "<p></p>"
+    }, 
+    {
+        "id": 422, 
+        "name": "Elektronika Sales  Pvt. Ltd.", 
+        "logo-url": "/images/sponsors/ElektronikaSalesPvt.Ltd._422.png.png", 
+        "level": "1", 
+        "type": "Booth", 
+        "url": "http://www.elektronikasales.com/", 
+        "description": "<p>Established in 1979 as a Distributor of Electronic Components, Elektronika has become the most trusted partner of Indian Electronic Industry.</p><p>We at Elektronika cater to OEM's in Automotive, Energy, Power, Lighting &amp; Industrial sectors. With Our own design house on Power/RF &amp; Embedded, Elektronika stands out for its Value Added Services. Technically qualified sales team, Field Application Engineers.</p>"
+    }, 
+    {
+        "id": 424, 
+        "name": "AVNET", 
+        "logo-url": "/images/sponsors/Avnet_424.png.png", 
+        "level": "3", 
+        "type": "Platinum Sponser", 
+        "url": "https://www.avnet.com", 
+        "description": "<p><span style=\"\">Since 1921, our strong values have guided how we operate and interact with our customers, suppliers and with each other. We believe that earning your trust is a privilege and doing the right thing is always the best course of action. Our Core Values, Code of Conduct and company policies reflect our commitment to doing business with integrity.</span></p>"
+    }, 
+    {
+        "id": 425, 
+        "name": "Arrow Electronic", 
+        "logo-url": "/images/sponsors/ArrowElectronic_425.png.png", 
+        "level": "3", 
+        "type": "Platinum Sponser", 
+        "url": "https://www.arrow.com", 
+        "description": "<p><span style=\"\">Arrow Electronics is an American Fortune 500 company headquartered in Centennial, Colorado. The company specializes in distribution and value added services relating to electronic components and computer products.</span></p>"
+    }, 
+    {
+        "id": 426, 
+        "name": "Future Electronics", 
+        "logo-url": "/images/sponsors/FutureElectronics_426.png.png", 
+        "level": "3", 
+        "type": "Platinum Sponser", 
+        "url": "http://www.futureelectronics.com", 
+        "description": "<p><span style=\"\">Founded in 1968, Future Electronics is a worldwide leader in electronic components distribution, and is recognized as one of the most respected and innovative companies in the industry today. Headquartered in Montreal and operating in 169 locations in 42 countries around the world, Future Electronics has earned an impressive reputation for providing outstanding service and developing efficient, comprehensive global supply chain solutions.</span></p>"
+    }, 
+    {
+        "id": 429, 
+        "name": "JP Electronic Devices", 
+        "logo-url": "/images/sponsors/JpElectronicDevices_429.png.png", 
+        "level": "2", 
+        "type": "Gold Sponser", 
+        "url": "http://www.jpedindia.com/", 
+        "description": "J.P. Electronic Devices (India) Pvt. Ltd. has proven to be a Preferred Knowledgeable Supplier by various leading OEM’s / EMS / Design Houses in India.We specialize ourselves as a genuine with Latest Date/Code Electronic Components supplier for all major brands with a strong techno-commercial support from JP Team.We specialize our supplies in IC’s, Microcontrollers, Memories, Power MOSFETs, Optocouplers, Power Modules and IGBT’s, Memories, Transistors, Relays and Tantalum Capacitors; BelFuse range of Fuses; Stewart range of magnetics/connectors."
+    }, 
+    {
+        "id": 427, 
+        "name": "NEXCOMM Asia", 
+        "logo-url": "/images/sponsors/NexcommAsia_427.png.png", 
+        "level": "3", 
+        "type": "Platinum Sponser", 
+        "url": "http://www.nexcomm-asia.com/", 
+        "description": "<p style=\"text-align: justify;\">Founded in 2005, Nexcomm-Asia is a young &amp; dynamic team with many years of experience in the electronic components distribution industry. Headquartered in Singapore, Nexcomm operates in 4 countries in Asia namely India, China, Korea &amp; Vietnam.</p><p style=\"text-align: justify;\">The team has vast knowledge of the electronics industry from design &amp; prototyping to production &amp; SCM.</p><p></p>"
+    }, 
+    {
+        "id": 430, 
+        "name": "Electronics Ware", 
+        "logo-url": "/images/sponsors/ElectronicsWare_430.png.png", 
+        "level": "1", 
+        "type": "Booth", 
+        "url": "http://electronics-ware.com", 
+        "description": "<p>Founded in October 2001 as a small PCB manufacturing business, we have grown to become a one-stop shop for all electronics manufacturing needs. Over the years, we have constantly improved our skills and services. </p><p>Today, Electronics Ware is a leading PCB manufacturer in the greater China region. We also have a significant share in the PCB assembling &amp; contract manufacturing market of electronic goods. We provide end-to-end solutions to some of the biggest names in the electronics industry.</p>"
+    }, 
+    {
+        "id": 431, 
+        "name": "Elements14", 
+        "logo-url": "/images/sponsors/Elements14_431.png.png", 
+        "level": "1", 
+        "type": "Booth", 
+        "url": "http://in.element14.com/", 
+        "description": "<p><span style=\"\">element14 is a high-service distributor of technology products, services and solutions for electronic system design, maintenance and repair.</span></p>"
+    }
+]

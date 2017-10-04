@@ -1,0 +1,568 @@
+[
+    {
+        "id": 848, 
+        "name": "Microcontrollers", 
+        "color": "#558B2F", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4147, 
+                "title": "Using the Core Independent Peripherals (CIPs) on Microchip's 16-bit microcontrollers"
+            }, 
+            {
+                "id": 4148, 
+                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter"
+            }, 
+            {
+                "id": 4187, 
+                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 849, 
+        "name": "Wireless", 
+        "color": "#D84315", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4146, 
+                "title": "The Latest Wireless, Analog, and Touch- Interface Products"
+            }, 
+            {
+                "id": 4170, 
+                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway"
+            }, 
+            {
+                "id": 4195, 
+                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network"
+            }, 
+            {
+                "id": 4203, 
+                "title": "(REPEAT) Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
+            }, 
+            {
+                "id": 4205, 
+                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 850, 
+        "name": "Ethernet", 
+        "color": "#6A1B9A", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4143, 
+                "title": "Introduction to the MPLAB® Harmony TCP/ IP Stack"
+            }, 
+            {
+                "id": 4162, 
+                "title": "Ethernet Hardware Design, Test, and Debug From Schematic to First Packet"
+            }, 
+            {
+                "id": 4163, 
+                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
+            }, 
+            {
+                "id": 4164, 
+                "title": "Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
+            }, 
+            {
+                "id": 4197, 
+                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack"
+            }, 
+            {
+                "id": 4198, 
+                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 851, 
+        "name": "USB ", 
+        "color": "#AD1457", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4141, 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack"
+            }, 
+            {
+                "id": 4159, 
+                "title": "Introduction to USB 2.0 Part A: Basic Concepts and Tools"
+            }, 
+            {
+                "id": 4160, 
+                "title": "USB Type-C Interface - Technical Overview and Design"
+            }, 
+            {
+                "id": 4188, 
+                "title": "(REPEAT) Developing USB Host and Device Applications with MPLAB® Harmony USB Stack"
+            }, 
+            {
+                "id": 4192, 
+                "title": "(REPEAT) Introduction to USB 2.0 Part A: Basic Concepts and Tools"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 852, 
+        "name": "MCC", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4136, 
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
+            }, 
+            {
+                "id": 4190, 
+                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 853, 
+        "name": "AVR/ SAM", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4150, 
+                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs"
+            }, 
+            {
+                "id": 4154, 
+                "title": "Atmel AVR® Tools: Bare metal and START-based AVR development in Studio 7"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 854, 
+        "name": "PIC", 
+        "color": "#558B2F", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 855, 
+        "name": "Motor Control", 
+        "color": "#00838F", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4151, 
+                "title": "Functional Safety - Developing a safe motor control"
+            }, 
+            {
+                "id": 4173, 
+                "title": "motorBench™ Development Suite: Part 2 New Motor Control Algorithms"
+            }, 
+            {
+                "id": 4174, 
+                "title": "Control System Design for Motor Control Applications"
+            }, 
+            {
+                "id": 4175, 
+                "title": "Motor Control for White goods Applications"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 856, 
+        "name": "Audrino", 
+        "color": "#1565C0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 857, 
+        "name": "START", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 858, 
+        "name": "IOT", 
+        "color": "#0277BD", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4168, 
+                "title": "Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 859, 
+        "name": "MPLABX", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4134, 
+                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins"
+            }, 
+            {
+                "id": 4135, 
+                "title": "Learn the True Power of the MPLAB® Simulator"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 860, 
+        "name": "General", 
+        "color": "#1565C0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4133, 
+                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
+            }, 
+            {
+                "id": 4145, 
+                "title": "Microchip Keynote"
+            }, 
+            {
+                "id": 4152, 
+                "title": "Easy Bootloader Library (EZBL)"
+            }, 
+            {
+                "id": 4165, 
+                "title": "Developing Secure Applications with Crypto Authentication Devices"
+            }, 
+            {
+                "id": 4166, 
+                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT"
+            }, 
+            {
+                "id": 4167, 
+                "title": "How to do secure boot and firmware updates using low-power crypto MCUs"
+            }, 
+            {
+                "id": 4182, 
+                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
+            }, 
+            {
+                "id": 4183, 
+                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products"
+            }, 
+            {
+                "id": 4199, 
+                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices"
+            }, 
+            {
+                "id": 4208, 
+                "title": "Academic Track (University & Training Partners)"
+            }, 
+            {
+                "id": 4209, 
+                "title": "Choosing Clock solutions for Smart, Connected Appliances"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 861, 
+        "name": "Harmony", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4137, 
+                "title": "Creating simple PIC32 embedded applications using MPLAB® Harmony"
+            }, 
+            {
+                "id": 4149, 
+                "title": "Creating Advanced PIC32 Embedded Applications using MPLAB Harmony"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 862, 
+        "name": "Programming and Debugging", 
+        "color": "#0277BD", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 863, 
+        "name": "RTOS", 
+        "color": "#4527A0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 864, 
+        "name": "Bluetooth", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4142, 
+                "title": "Getting Started with Bluetooth® Low Energy (BLE) Development"
+            }, 
+            {
+                "id": 4161, 
+                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices"
+            }, 
+            {
+                "id": 4169, 
+                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
+            }, 
+            {
+                "id": 4186, 
+                "title": "(REPEAT) Getting Started with Bluetooth® Low Energy (BLE) Development"
+            }, 
+            {
+                "id": 4196, 
+                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices"
+            }, 
+            {
+                "id": 4204, 
+                "title": "(REPEAT)  Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 865, 
+        "name": "Linux", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4184, 
+                "title": "Introduction to Embedded Linux"
+            }, 
+            {
+                "id": 4185, 
+                "title": "Advanced Topics in Embedded Linux"
+            }, 
+            {
+                "id": 4200, 
+                "title": "(REPEAT)  Introduction to Embedded Linux"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 866, 
+        "name": "Touch Solution", 
+        "color": "#4E342E", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4138, 
+                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
+            }, 
+            {
+                "id": 4153, 
+                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
+            }, 
+            {
+                "id": 4155, 
+                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces"
+            }, 
+            {
+                "id": 4189, 
+                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
+            }, 
+            {
+                "id": 4206, 
+                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 867, 
+        "name": "Graphics", 
+        "color": "#4527A0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4139, 
+                "title": "PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite"
+            }, 
+            {
+                "id": 4156, 
+                "title": "Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+            }, 
+            {
+                "id": 4191, 
+                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite"
+            }, 
+            {
+                "id": 4201, 
+                "title": "(REPEAT) Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 868, 
+        "name": "Automotive", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4140, 
+                "title": "CAN and CAN-FD protocols and physical layer basics"
+            }, 
+            {
+                "id": 4157, 
+                "title": "Setting Up Classic CAN (Controller Area Network) Node"
+            }, 
+            {
+                "id": 4158, 
+                "title": "Implementing a CAN FD node using an external CAN FD controller"
+            }, 
+            {
+                "id": 4194, 
+                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 869, 
+        "name": "Security", 
+        "color": "#00838F", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 870, 
+        "name": "Power", 
+        "color": "#424242", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4144, 
+                "title": "Fundamentals of Switch- Mode Power Converters"
+            }, 
+            {
+                "id": 4171, 
+                "title": "High-Precision Analog Applications Using Amplifiers"
+            }, 
+            {
+                "id": 4172, 
+                "title": "Precision Remote Temperature Sensing for Embedded Systems"
+            }, 
+            {
+                "id": 4176, 
+                "title": "Fundamentals of Switch- Mode Power Converter Control"
+            }, 
+            {
+                "id": 4177, 
+                "title": "Fundamentals of Digital Switched-Mode Power Converter Control"
+            }, 
+            {
+                "id": 4178, 
+                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems"
+            }, 
+            {
+                "id": 4180, 
+                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today"
+            }, 
+            {
+                "id": 4181, 
+                "title": "Electromagnetic Compatibility (EMC) Demystified!"
+            }, 
+            {
+                "id": 4193, 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
+            }, 
+            {
+                "id": 4202, 
+                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control"
+            }, 
+            {
+                "id": 4207, 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 871, 
+        "name": "Lighting", 
+        "color": "#EF6C00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4179, 
+                "title": "LEDs And LED Drivers For General Lighting"
+            }
+        ], 
+        "track-image-url": null
+    }
+]
