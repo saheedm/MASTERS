@@ -4,6 +4,8 @@ import android.animation.ObjectAnimator;
 import android.annotation.TargetApi;
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.DividerItemDecoration;
@@ -84,7 +86,6 @@ public class AboutFragment extends BaseFragment {
     private RealmResults<Session> bookmarksResult;
     private List<Object> sessions = new ArrayList<>();
     private List<SocialLink> socialLinks = new ArrayList<>();
-
     private RealmDataRepository realmRepo = RealmDataRepository.getDefaultInstance();
     private Event event;
 
@@ -113,6 +114,28 @@ public class AboutFragment extends BaseFragment {
 
         event = realmRepo.getEvent();
         event.addChangeListener(realmModel -> loadEvent(event));
+        TextView Venue = (TextView) view.findViewById(R.id.event_venue_details);
+        Venue.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Event event = realmRepo.getEventSync();
+
+                if(event == null)
+                    return;
+
+                double latitude = event.getLatitude();
+                double longitude = event.getLongitude();
+                String label = "Le Méridien";
+                String uriBegin = "geo:"+latitude+","+longitude+"";
+                String query = ""+latitude+","+longitude+"(" + label + ")";
+                String encodedQuery = Uri.encode( query  );
+                String uriString = uriBegin + "?q=" + encodedQuery;
+                Uri uri = Uri.parse( uriString );
+                showMap(uri);
+            }
+
+        });
+
     }
 
     @Subscribe
@@ -287,5 +310,13 @@ public class AboutFragment extends BaseFragment {
 
         // Remove listeners to fix memory leak
         if (searchView != null) searchView.setOnQueryTextListener(null);
+    }
+
+    public void showMap(Uri geoLocation) {
+        Intent intent = new Intent(Intent.ACTION_VIEW);
+        intent.setData(geoLocation);
+        if (intent.resolveActivity(getContext().getPackageManager()) != null) {
+            startActivity(intent);
+        }
     }
 }
