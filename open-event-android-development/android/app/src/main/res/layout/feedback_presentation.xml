@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/general_comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="If you have general comments or suggestions on how this class could be improved, please let us know below. We appreciate your valuable suggestions and comments:"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:ems="10"
+                android:hint="Maximum of 300 words!"
+                android:inputType="textMultiLine" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Did the class material match abstract description"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <RatingBar
+                android:id="@+id/ratingBar5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the instructor’s knowledge of the subject"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+
+
+            <RatingBar
+                android:id="@+id/ratingBar1"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:isIndicator="false" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Did this class meet your expectations?"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <RatingBar
+                android:id="@+id/ratingBar7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the instructor’s presentation style"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <RatingBar
+                android:id="@+id/ratingBar3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the technical content of the class"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <RatingBar
+                android:id="@+id/ratingBar2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the overall value of this class"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+            <RatingBar
+                android:id="@+id/ratingBar4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the presentation material"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <RatingBar
+                android:id="@+id/ratingBar6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/buttonSubmit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="Submit" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
