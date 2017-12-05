@@ -25,7 +25,7 @@ import org.fossasia.openevent.utils.Utils;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class LoginActivity extends AppCompatActivity implements AppCompatEditText.OnEditorActionListener {
+public class LoginActivity extends AppCompatActivity implements AppCompatEditText.OnEditorActionListener{
 
     @BindView(R.id.text_input_layout_email)
     TextInputLayout emailWrapper;
@@ -72,9 +72,9 @@ public class LoginActivity extends AppCompatActivity implements AppCompatEditTex
             email = emailInput.getText().toString();
             String password = passwordInput.getText().toString();
 
-            if (validateCredentials(email, password)) {
-            AuthUtil.loginUser(LoginActivity.this, email, password, progressBar);
-            }
+            validateCredentials(email, password);
+//            AuthUtil.loginUser(LoginActivity.this, email, password, progressBar);
+//            }
         });
     }
 
@@ -86,26 +86,20 @@ public class LoginActivity extends AppCompatActivity implements AppCompatEditTex
         passwordInput.setOnEditorActionListener(this);
     }
 
-    private boolean validateCredentials(String email, String password) {
-
+    private void validateCredentials(String email, String password) {
         // Reset errors.
         emailWrapper.setError(null);
         passwordWrapper.setError(null);
 
         if (Utils.isEmpty(email)) {
             handleError(emailWrapper, R.string.error_email_required);
-            return false;
         } else if (!Utils.isEmailValid(email)) {
             handleError(emailWrapper, R.string.error_enter_valid_email);
-            return false;
         }
 
         if (Utils.isEmpty(password)) {
             handleError(passwordWrapper, R.string.error_password_required);
-            return false;
         }
-
-        return true;
     }
 
     private void handleError(TextInputLayout textInputLayout, @StringRes int id) {
@@ -150,5 +144,6 @@ public class LoginActivity extends AppCompatActivity implements AppCompatEditTex
         }
         return super.onOptionsItemSelected(item);
     }
+
 }
 

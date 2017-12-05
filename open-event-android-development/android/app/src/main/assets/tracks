@@ -1,146 +1,206 @@
 [
     {
+        "id": 860, 
+        "name": "Bluetooth", 
+        "color": "#1565C0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4161, 
+                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }, 
+            {
+                "id": 4186, 
+                "title": "(REPEAT) Getting Started with Bluetooth® Low Energy (BLE) Development (BLU1)"
+            }, 
+            {
+                "id": 4196, 
+                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }, 
+            {
+                "id": 4142, 
+                "title": "Getting Started with Bluetooth® Low Energy (BLE) Development (BLU1)"
+            }, 
+            {
+                "id": 4152, 
+                "title": "Easy Bootloader Library  (BTL2)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 861, 
+        "name": "LAN", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4162, 
+                "title": "Ethernet Hardware Design, Test, and Debug From Schematic to First Packet (LAN1)"
+            }, 
+            {
+                "id": 4163, 
+                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }, 
+            {
+                "id": 4164, 
+                "title": "Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000 (NET3)"
+            }, 
+            {
+                "id": 4197, 
+                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }, 
+            {
+                "id": 4198, 
+                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }, 
+            {
+                "id": 4203, 
+                "title": "(REPEAT) Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000 (NET3)"
+            }, 
+            {
+                "id": 4143, 
+                "title": "Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
         "id": 848, 
-        "name": "Microcontrollers", 
+        "name": "Products and Peripherals", 
         "color": "#558B2F", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
+                "id": 4133, 
+                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
+            }, 
+            {
+                "id": 4146, 
+                "title": "The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4183, 
+                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4182, 
+                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
+            }, 
+            {
+                "id": 4209, 
+                "title": "Choosing Clock solutions for Smart, Connected Appliances (PNP11)"
+            }, 
+            {
                 "id": 4147, 
-                "title": "Using the Core Independent Peripherals (CIPs) on Microchip's 16-bit microcontrollers"
+                "title": "Using the Core Independent Peripherals (CIPs) on Microchip's 16-bit microcontrollers (PNP4)"
             }, 
             {
                 "id": 4148, 
-                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter"
-            }, 
-            {
-                "id": 4187, 
-                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony"
+                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter (PNP6)"
             }
         ], 
         "track-image-url": null
     }, 
     {
         "id": 849, 
-        "name": "Wireless", 
+        "name": "Development Tools", 
         "color": "#D84315", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
-                "id": 4146, 
-                "title": "The Latest Wireless, Analog, and Touch- Interface Products"
+                "id": 4136, 
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
             }, 
             {
-                "id": 4170, 
-                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway"
+                "id": 4137, 
+                "title": "Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
             }, 
             {
-                "id": 4195, 
-                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network"
+                "id": 4149, 
+                "title": "Creating Advanced PIC32 Embedded Applications using MPLAB Harmony (DEV6)"
             }, 
             {
-                "id": 4203, 
-                "title": "(REPEAT) Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
+                "id": 4187, 
+                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
             }, 
             {
-                "id": 4205, 
-                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway"
+                "id": 4134, 
+                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins (DEV2)"
+            }, 
+            {
+                "id": 4154, 
+                "title": "Atmel AVR® Tools: Bare metal and START-based AVR development in Studio 7 (DEV8)"
+            }, 
+            {
+                "id": 4135, 
+                "title": "Learn the True Power of the MPLAB® Simulator (DEV3)"
+            }, 
+            {
+                "id": 4190, 
+                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
             }
         ], 
         "track-image-url": null
     }, 
     {
         "id": 850, 
-        "name": "Ethernet", 
+        "name": "Firmware Design and Compilers", 
         "color": "#6A1B9A", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
-        "sessions": [
-            {
-                "id": 4143, 
-                "title": "Introduction to the MPLAB® Harmony TCP/ IP Stack"
-            }, 
-            {
-                "id": 4162, 
-                "title": "Ethernet Hardware Design, Test, and Debug From Schematic to First Packet"
-            }, 
-            {
-                "id": 4163, 
-                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
-            }, 
-            {
-                "id": 4164, 
-                "title": "Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
-            }, 
-            {
-                "id": 4197, 
-                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack"
-            }, 
-            {
-                "id": 4198, 
-                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
-            }
-        ], 
+        "sessions": [], 
         "track-image-url": null
     }, 
     {
         "id": 851, 
-        "name": "USB ", 
+        "name": "Linux", 
         "color": "#AD1457", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
-                "id": 4141, 
-                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack"
-            }, 
-            {
-                "id": 4159, 
-                "title": "Introduction to USB 2.0 Part A: Basic Concepts and Tools"
-            }, 
-            {
                 "id": 4160, 
-                "title": "USB Type-C Interface - Technical Overview and Design"
+                "title": "USB Type-C Interface - Technical Overview and Design (USB4)"
             }, 
             {
-                "id": 4188, 
-                "title": "(REPEAT) Developing USB Host and Device Applications with MPLAB® Harmony USB Stack"
+                "id": 4184, 
+                "title": "Introduction to Embedded Linux (LNX2)"
             }, 
             {
-                "id": 4192, 
-                "title": "(REPEAT) Introduction to USB 2.0 Part A: Basic Concepts and Tools"
+                "id": 4185, 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }, 
+            {
+                "id": 4200, 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
             }
         ], 
         "track-image-url": null
     }, 
     {
         "id": 852, 
-        "name": "MCC", 
+        "name": "Bootloaders", 
         "color": "#283593", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
-        "sessions": [
-            {
-                "id": 4136, 
-                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
-            }, 
-            {
-                "id": 4190, 
-                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
-            }
-        ], 
+        "sessions": [], 
         "track-image-url": null
     }, 
     {
         "id": 853, 
-        "name": "AVR/ SAM", 
+        "name": "Application Design", 
         "color": "#283593", 
         "font-color": "#ffffff", 
         "description": null, 
@@ -148,28 +208,45 @@
         "sessions": [
             {
                 "id": 4150, 
-                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs"
-            }, 
-            {
-                "id": 4154, 
-                "title": "Atmel AVR® Tools: Bare metal and START-based AVR development in Studio 7"
+                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs (AD4)"
             }
         ], 
         "track-image-url": null
     }, 
     {
         "id": 854, 
-        "name": "PIC", 
+        "name": "Touch/Gesture Sensing", 
         "color": "#558B2F", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4138, 
+                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }, 
+            {
+                "id": 4153, 
+                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }, 
+            {
+                "id": 4155, 
+                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces (TNG3)"
+            }, 
+            {
+                "id": 4189, 
+                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }, 
+            {
+                "id": 4206, 
+                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }
+        ], 
         "track-image-url": null
     }, 
     {
         "id": 855, 
-        "name": "Motor Control", 
+        "name": "Functional Safety", 
         "color": "#00838F", 
         "font-color": "#ffffff", 
         "description": null, 
@@ -177,318 +254,69 @@
         "sessions": [
             {
                 "id": 4151, 
-                "title": "Functional Safety - Developing a safe motor control"
-            }, 
-            {
-                "id": 4173, 
-                "title": "motorBench™ Development Suite: Part 2 New Motor Control Algorithms"
-            }, 
-            {
-                "id": 4174, 
-                "title": "Control System Design for Motor Control Applications"
-            }, 
-            {
-                "id": 4175, 
-                "title": "Motor Control for White goods Applications"
+                "title": "Functional Safety - Developing a safe motor control (FS1)"
             }
         ], 
         "track-image-url": null
     }, 
     {
         "id": 856, 
-        "name": "Audrino", 
+        "name": "Display Technologies", 
         "color": "#1565C0", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 857, 
-        "name": "START", 
-        "color": "#283593", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 858, 
-        "name": "IOT", 
-        "color": "#0277BD", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4168, 
-                "title": "Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 859, 
-        "name": "MPLABX", 
-        "color": "#283593", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4134, 
-                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins"
-            }, 
-            {
-                "id": 4135, 
-                "title": "Learn the True Power of the MPLAB® Simulator"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 860, 
-        "name": "General", 
-        "color": "#1565C0", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4133, 
-                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
-            }, 
-            {
-                "id": 4145, 
-                "title": "Microchip Keynote"
-            }, 
-            {
-                "id": 4152, 
-                "title": "Easy Bootloader Library (EZBL)"
-            }, 
-            {
-                "id": 4165, 
-                "title": "Developing Secure Applications with Crypto Authentication Devices"
-            }, 
-            {
-                "id": 4166, 
-                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT"
-            }, 
-            {
-                "id": 4167, 
-                "title": "How to do secure boot and firmware updates using low-power crypto MCUs"
-            }, 
-            {
-                "id": 4182, 
-                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
-            }, 
-            {
-                "id": 4183, 
-                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products"
-            }, 
-            {
-                "id": 4199, 
-                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices"
-            }, 
-            {
-                "id": 4208, 
-                "title": "Academic Track (University & Training Partners)"
-            }, 
-            {
-                "id": 4209, 
-                "title": "Choosing Clock solutions for Smart, Connected Appliances"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 861, 
-        "name": "Harmony", 
-        "color": "#FF8F00", 
-        "font-color": "#000000", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4137, 
-                "title": "Creating simple PIC32 embedded applications using MPLAB® Harmony"
-            }, 
-            {
-                "id": 4149, 
-                "title": "Creating Advanced PIC32 Embedded Applications using MPLAB Harmony"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 862, 
-        "name": "Programming and Debugging", 
-        "color": "#0277BD", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 863, 
-        "name": "RTOS", 
-        "color": "#4527A0", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 864, 
-        "name": "Bluetooth", 
-        "color": "#FF8F00", 
-        "font-color": "#000000", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4142, 
-                "title": "Getting Started with Bluetooth® Low Energy (BLE) Development"
-            }, 
-            {
-                "id": 4161, 
-                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices"
-            }, 
-            {
-                "id": 4169, 
-                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
-            }, 
-            {
-                "id": 4186, 
-                "title": "(REPEAT) Getting Started with Bluetooth® Low Energy (BLE) Development"
-            }, 
-            {
-                "id": 4196, 
-                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices"
-            }, 
-            {
-                "id": 4204, 
-                "title": "(REPEAT)  Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 865, 
-        "name": "Linux", 
-        "color": "#FF8F00", 
-        "font-color": "#000000", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4184, 
-                "title": "Introduction to Embedded Linux"
-            }, 
-            {
-                "id": 4185, 
-                "title": "Advanced Topics in Embedded Linux"
-            }, 
-            {
-                "id": 4200, 
-                "title": "(REPEAT)  Introduction to Embedded Linux"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 866, 
-        "name": "Touch Solution", 
-        "color": "#4E342E", 
-        "font-color": "#ffffff", 
-        "description": null, 
-        "location": null, 
-        "sessions": [
-            {
-                "id": 4138, 
-                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
-            }, 
-            {
-                "id": 4153, 
-                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
-            }, 
-            {
-                "id": 4155, 
-                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces"
-            }, 
-            {
-                "id": 4189, 
-                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
-            }, 
-            {
-                "id": 4206, 
-                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
-            }
-        ], 
-        "track-image-url": null
-    }, 
-    {
-        "id": 867, 
-        "name": "Graphics", 
-        "color": "#4527A0", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
                 "id": 4139, 
-                "title": "PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite"
+                "title": "PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
             }, 
             {
                 "id": 4156, 
-                "title": "Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+                "title": "Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony (GFX2)"
             }, 
             {
                 "id": 4191, 
-                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite"
+                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
             }, 
             {
                 "id": 4201, 
-                "title": "(REPEAT) Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+                "title": "(REPEAT) Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony  (GFX2)"
             }
         ], 
         "track-image-url": null
     }, 
     {
-        "id": 868, 
-        "name": "Automotive", 
-        "color": "#FF8F00", 
-        "font-color": "#000000", 
+        "id": 857, 
+        "name": "Automotive Networking - CAN/LIN", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
                 "id": 4140, 
-                "title": "CAN and CAN-FD protocols and physical layer basics"
+                "title": "CAN and CAN-FD protocols and physical layer basics (AN1)"
             }, 
             {
                 "id": 4157, 
-                "title": "Setting Up Classic CAN (Controller Area Network) Node"
+                "title": "Setting Up Classic CAN (Controller Area Network) Node (AN2)"
             }, 
             {
                 "id": 4158, 
-                "title": "Implementing a CAN FD node using an external CAN FD controller"
+                "title": "Implementing a CAN FD node using an external CAN FD controller (AN3)"
             }, 
             {
                 "id": 4194, 
-                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node"
+                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node (AN2)"
             }
         ], 
         "track-image-url": null
     }, 
     {
-        "id": 869, 
-        "name": "Security", 
-        "color": "#00838F", 
+        "id": 858, 
+        "name": "Serial Communication - I2C/SPI", 
+        "color": "#0277BD", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
@@ -496,71 +324,251 @@
         "track-image-url": null
     }, 
     {
-        "id": 870, 
-        "name": "Power", 
-        "color": "#424242", 
+        "id": 859, 
+        "name": "USB", 
+        "color": "#283593", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4159, 
+                "title": "Introduction to USB 2.0 Part A: Basic Concepts and Tools (USB1)"
+            }, 
+            {
+                "id": 4192, 
+                "title": "(REPEAT) Introduction to USB 2.0 Part A: Basic Concepts and Tools (USB1)"
+            }, 
+            {
+                "id": 4141, 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }, 
+            {
+                "id": 4188, 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 862, 
+        "name": "Security/Encryption", 
+        "color": "#0277BD", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4165, 
+                "title": "Developing Secure Applications with Crypto Authentication Devices (SEC2)"
+            }, 
+            {
+                "id": 4166, 
+                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT (SEC3)"
+            }, 
+            {
+                "id": 4167, 
+                "title": "How to do secure boot and firmware updates using low-power crypto MCUs (SEC5)"
+            }, 
+            {
+                "id": 4199, 
+                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices (SEC2)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 863, 
+        "name": "Internet of Things (IoT)", 
+        "color": "#4527A0", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4168, 
+                "title": "Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }, 
+            {
+                "id": 4170, 
+                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
+            }, 
+            {
+                "id": 4205, 
+                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
+            }, 
+            {
+                "id": 4169, 
+                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway (IoT5)"
+            }, 
+            {
+                "id": 4195, 
+                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 864, 
+        "name": "Analog and Mixed Signal", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4171, 
+                "title": "High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4172, 
+                "title": "Precision Remote Temperature Sensing for Embedded Systems (AMS4)"
+            }, 
+            {
+                "id": 4193, 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4204, 
+                "title": "(REPEAT)  Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
+            }, 
+            {
+                "id": 4207, 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 865, 
+        "name": "Motor Control", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4173, 
+                "title": "motorBench™ Development Suite: Part 2 New Motor Control Algorithms (MC2)"
+            }, 
+            {
+                "id": 4175, 
+                "title": "Motor Control for White goods Applications (MC5)"
+            }, 
+            {
+                "id": 4174, 
+                "title": "Control System Design for Motor Control Applications (MC4)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 866, 
+        "name": "Power Supplies and Power Conversion", 
+        "color": "#4E342E", 
         "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
                 "id": 4144, 
-                "title": "Fundamentals of Switch- Mode Power Converters"
-            }, 
-            {
-                "id": 4171, 
-                "title": "High-Precision Analog Applications Using Amplifiers"
-            }, 
-            {
-                "id": 4172, 
-                "title": "Precision Remote Temperature Sensing for Embedded Systems"
+                "title": "Fundamentals of Switch- Mode Power Converters (PC1)"
             }, 
             {
                 "id": 4176, 
-                "title": "Fundamentals of Switch- Mode Power Converter Control"
-            }, 
-            {
-                "id": 4177, 
-                "title": "Fundamentals of Digital Switched-Mode Power Converter Control"
+                "title": "Fundamentals of Switch- Mode Power Converter Control (PC2)"
             }, 
             {
                 "id": 4178, 
-                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems"
+                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems (PC5)"
             }, 
             {
-                "id": 4180, 
-                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today"
-            }, 
-            {
-                "id": 4181, 
-                "title": "Electromagnetic Compatibility (EMC) Demystified!"
-            }, 
-            {
-                "id": 4193, 
-                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
+                "id": 4177, 
+                "title": "Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
             }, 
             {
                 "id": 4202, 
-                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control"
-            }, 
-            {
-                "id": 4207, 
-                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
+                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
             }
         ], 
         "track-image-url": null
     }, 
     {
-        "id": 871, 
-        "name": "Lighting", 
-        "color": "#EF6C00", 
-        "font-color": "#000000", 
+        "id": 867, 
+        "name": "Batteries", 
+        "color": "#4527a0", 
+        "font-color": "#ffffff", 
         "description": null, 
         "location": null, 
         "sessions": [
             {
-                "id": 4179, 
-                "title": "LEDs And LED Drivers For General Lighting"
+                "id": 4180, 
+                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today (BAT2)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 868, 
+        "name": "Low Power Design", 
+        "color": "#FF8F00", 
+        "font-color": "#000000", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 869, 
+        "name": "Signal Integrity and PCB Design", 
+        "color": "#00838F", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4181, 
+                "title": "Electromagnetic Compatibility (EMC) Demystified! (SIG1)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 870, 
+        "name": "Manufacturing", 
+        "color": "#424242", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 885, 
+        "name": "Acadamic", 
+        "color": "#D84315", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4208, 
+                "title": "Academic Track (University & Training Partners)"
+            }
+        ], 
+        "track-image-url": null
+    }, 
+    {
+        "id": 886, 
+        "name": "Keynote", 
+        "color": "#6A1B9A", 
+        "font-color": "#ffffff", 
+        "description": null, 
+        "location": null, 
+        "sessions": [
+            {
+                "id": 4243, 
+                "title": "MASTERs Keynote"
             }
         ], 
         "track-image-url": null

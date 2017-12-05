@@ -1,9 +1,9 @@
 {
     "id": 299, 
     "name": "India MASTERs 2017", 
-    "latitude": 12.990246,
-    "longitude": 77.586247,
-    "location-name": "Le Méridien, No.28, Sankey Road, Opposite Bangalore Golf Club, Vasanth Nagar, Bengalore KA India 560052 ",
+    "latitude": 12.9715987, 
+    "longitude": 77.5945627, 
+    "location-name": "28, Sankey Road, Opposite Bangalore Golf Club, Vasanth Nagar, Bengalore KA India 560052 ", 
     "starts-at": "2017-12-05T09:00:00+05:30", 
     "ends-at": "2017-12-08T20:00:00+05:30", 
     "timezone": "Asia/Kolkata", 
@@ -100,8 +100,8 @@
     "thumbnail": "https://storage.googleapis.com/eventyay.com/events/299/thumbnail/bDdOckRabz/thumbnail", 
     "version": {
         "event-ver": 0, 
-        "microlocations_ver": 0, 
-        "sessions-ver": 522, 
+        "microlocations-ver": 0, 
+        "sessions-ver": 669, 
         "speakers-ver": 0, 
         "sponsors-ver": 0, 
         "tracks-ver": 0

@@ -73,7 +73,9 @@ import org.fossasia.openevent.events.TracksDownloadEvent;
 import org.fossasia.openevent.fragments.AboutFragment;
 import org.fossasia.openevent.fragments.CommentsDialogFragment;
 import org.fossasia.openevent.fragments.FeedFragment;
+import org.fossasia.openevent.fragments.FeedbackFragment;
 import org.fossasia.openevent.fragments.LocationsFragment;
+import org.fossasia.openevent.fragments.MastersFeedback;
 import org.fossasia.openevent.fragments.ScheduleFragment;
 import org.fossasia.openevent.fragments.SpeakersListFragment;
 import org.fossasia.openevent.fragments.SponsorsFragment;
@@ -551,6 +553,14 @@ public class MainActivity extends BaseActivity implements FeedAdapter.AdapterCal
             case R.id.nav_settings:
                 intent = new Intent(MainActivity.this, SettingsActivity.class);
                 startActivity(intent);
+                break;
+            case R.id.feedback:
+                replaceFragment(new FeedbackFragment(), R.string.menu_feedback);
+//                intent = new Intent(MainActivity.this, FeedbackActivity.class);
+//                startActivity(intent);
+                break;
+            case R.id.mastersfeedback:
+                replaceFragment(new MastersFeedback(), R.string.menu_masters_feedback);
                 break;
             case R.id.nav_share:
                 shareApplication();

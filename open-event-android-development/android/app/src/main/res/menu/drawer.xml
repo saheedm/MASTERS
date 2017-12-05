@@ -67,6 +67,18 @@
             android:icon="@drawable/ic_settings_black_24dp"
             app:showAsAction="always"
             android:title="@string/menu_settings" />
+
+        <item
+            android:id="@+id/feedback"
+            app:showAsAction="always"
+            android:title="Presentation Feedback" />
+            <!--android:icon="@drawable/ic_feed_black_24dp"-->
+
+        <item
+            android:id="@+id/mastersfeedback"
+            app:showAsAction="always"
+            android:title="Masters Feedback" />
+
         <item
             android:id="@+id/nav_share"
             android:icon="@drawable/ic_share_white_24dp"

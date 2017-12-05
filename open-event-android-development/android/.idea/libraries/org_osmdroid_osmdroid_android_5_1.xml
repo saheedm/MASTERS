@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.osmdroid:osmdroid-android-5.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5e05f968ba54c1a94a18993ed45c69f53baa65db/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5e05f968ba54c1a94a18993ed45c69f53baa65db/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

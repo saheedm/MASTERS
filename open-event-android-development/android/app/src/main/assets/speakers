@@ -20,13 +20,7 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [
-            {
-                "id": 4188, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Developing USB Host and Device Applications with MPLAB® Harmony USB Stack"
-            }
-        ], 
+        "sessions": [], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -53,7 +47,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2962/icon/TjlvbTI3aW/icon", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4149, 
+                "state": "confirmed", 
+                "title": "Creating Advanced PIC32 Embedded Applications using MPLAB Harmony (DEV6)"
+            }
+        ], 
         "small": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2962/small/MWRsUVRuUl/small", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -84,22 +84,12 @@
             {
                 "id": 4133, 
                 "state": "confirmed", 
-                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
-            }, 
-            {
-                "id": 4146, 
-                "state": "confirmed", 
-                "title": "The Latest Wireless, Analog, and Touch- Interface Products"
+                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
             }, 
             {
                 "id": 4182, 
                 "state": "confirmed", 
-                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip"
-            }, 
-            {
-                "id": 4183, 
-                "state": "confirmed", 
-                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products"
+                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
             }
         ], 
         "small": "", 
@@ -128,7 +118,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4147, 
+                "state": "confirmed", 
+                "title": "Using the Core Independent Peripherals (CIPs) on Microchip's 16-bit microcontrollers (PNP4)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -155,7 +151,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4147, 
+                "state": "confirmed", 
+                "title": "Using the Core Independent Peripherals (CIPs) on Microchip's 16-bit microcontrollers (PNP4)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -182,7 +184,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4137, 
+                "state": "confirmed", 
+                "title": "Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
+            }, 
+            {
+                "id": 4187, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -213,7 +226,7 @@
             {
                 "id": 4150, 
                 "state": "confirmed", 
-                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs"
+                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs (AD4)"
             }
         ], 
         "small": "", 
@@ -242,7 +255,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4135, 
+                "state": "confirmed", 
+                "title": "Learn the True Power of the MPLAB® Simulator (DEV3)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -273,12 +292,12 @@
             {
                 "id": 4136, 
                 "state": "confirmed", 
-                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
             }, 
             {
                 "id": 4190, 
                 "state": "confirmed", 
-                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development"
+                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
             }
         ], 
         "small": "", 
@@ -307,7 +326,23 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4137, 
+                "state": "confirmed", 
+                "title": "Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
+            }, 
+            {
+                "id": 4149, 
+                "state": "confirmed", 
+                "title": "Creating Advanced PIC32 Embedded Applications using MPLAB Harmony (DEV6)"
+            }, 
+            {
+                "id": 4187, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony (DEV5)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -334,7 +369,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4154, 
+                "state": "confirmed", 
+                "title": "Atmel AVR® Tools: Bare metal and START-based AVR development in Studio 7 (DEV8)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -361,7 +402,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4154, 
+                "state": "confirmed", 
+                "title": "Atmel AVR® Tools: Bare metal and START-based AVR development in Studio 7 (DEV8)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -390,14 +437,14 @@
         "icon": "", 
         "sessions": [
             {
-                "id": 4156, 
+                "id": 4139, 
                 "state": "confirmed", 
-                "title": "Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+                "title": "PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
             }, 
             {
-                "id": 4201, 
+                "id": 4191, 
                 "state": "confirmed", 
-                "title": "(REPEAT) Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony"
+                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
             }
         ], 
         "small": "", 
@@ -426,7 +473,23 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4140, 
+                "state": "confirmed", 
+                "title": "CAN and CAN-FD protocols and physical layer basics (AN1)"
+            }, 
+            {
+                "id": 4157, 
+                "state": "confirmed", 
+                "title": "Setting Up Classic CAN (Controller Area Network) Node (AN2)"
+            }, 
+            {
+                "id": 4194, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node (AN2)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -453,7 +516,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4158, 
+                "state": "confirmed", 
+                "title": "Implementing a CAN FD node using an external CAN FD controller (AN3)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -484,7 +553,7 @@
             {
                 "id": 4160, 
                 "state": "confirmed", 
-                "title": "USB Type-C Interface - Technical Overview and Design"
+                "title": "USB Type-C Interface - Technical Overview and Design (USB4)"
             }
         ], 
         "small": "", 
@@ -517,12 +586,12 @@
             {
                 "id": 4159, 
                 "state": "confirmed", 
-                "title": "Introduction to USB 2.0 Part A: Basic Concepts and Tools"
+                "title": "Introduction to USB 2.0 Part A: Basic Concepts and Tools (USB1)"
             }, 
             {
                 "id": 4192, 
                 "state": "confirmed", 
-                "title": "(REPEAT) Introduction to USB 2.0 Part A: Basic Concepts and Tools"
+                "title": "(REPEAT) Introduction to USB 2.0 Part A: Basic Concepts and Tools (USB1)"
             }
         ], 
         "small": "", 
@@ -555,17 +624,32 @@
             {
                 "id": 4165, 
                 "state": "confirmed", 
-                "title": "Developing Secure Applications with Crypto Authentication Devices"
+                "title": "Developing Secure Applications with Crypto Authentication Devices (SEC2)"
             }, 
             {
                 "id": 4166, 
                 "state": "confirmed", 
-                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT"
+                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT (SEC3)"
             }, 
             {
                 "id": 4199, 
                 "state": "confirmed", 
-                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices"
+                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices (SEC2)"
+            }, 
+            {
+                "id": 4185, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }, 
+            {
+                "id": 4200, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }, 
+            {
+                "id": 4167, 
+                "state": "confirmed", 
+                "title": "How to do secure boot and firmware updates using low-power crypto MCUs (SEC5)"
             }
         ], 
         "small": "", 
@@ -594,7 +678,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4141, 
+                "state": "confirmed", 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }, 
+            {
+                "id": 4188, 
+                "state": "confirmed", 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -621,7 +716,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4162, 
+                "state": "confirmed", 
+                "title": "Ethernet Hardware Design, Test, and Debug From Schematic to First Packet (LAN1)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -648,7 +749,28 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4140, 
+                "state": "confirmed", 
+                "title": "CAN and CAN-FD protocols and physical layer basics (AN1)"
+            }, 
+            {
+                "id": 4157, 
+                "state": "confirmed", 
+                "title": "Setting Up Classic CAN (Controller Area Network) Node (AN2)"
+            }, 
+            {
+                "id": 4194, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node (AN2)"
+            }, 
+            {
+                "id": 4158, 
+                "state": "confirmed", 
+                "title": "Implementing a CAN FD node using an external CAN FD controller (AN3)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -675,7 +797,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4143, 
+                "state": "confirmed", 
+                "title": "Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }, 
+            {
+                "id": 4197, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -702,7 +835,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4197, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }, 
+            {
+                "id": 4143, 
+                "state": "confirmed", 
+                "title": "Introduction to the MPLAB® Harmony TCP/ IP Stack (NET1)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -733,7 +877,7 @@
             {
                 "id": 4152, 
                 "state": "confirmed", 
-                "title": "Easy Bootloader Library (EZBL)"
+                "title": "Easy Bootloader Library  (BTL2)"
             }
         ], 
         "small": "", 
@@ -766,12 +910,7 @@
             {
                 "id": 4167, 
                 "state": "confirmed", 
-                "title": "How to do secure boot and firmware updates using low-power crypto MCUs"
-            }, 
-            {
-                "id": 4195, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network"
+                "title": "How to do secure boot and firmware updates using low-power crypto MCUs (SEC5)"
             }
         ], 
         "small": "", 
@@ -800,7 +939,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4195, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }, 
+            {
+                "id": 4168, 
+                "state": "confirmed", 
+                "title": "Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -831,7 +981,7 @@
             {
                 "id": 4169, 
                 "state": "confirmed", 
-                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway"
+                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway (IoT5)"
             }, 
             {
                 "id": 4204, 
@@ -869,12 +1019,12 @@
             {
                 "id": 4170, 
                 "state": "confirmed", 
-                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway"
+                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
             }, 
             {
                 "id": 4205, 
                 "state": "confirmed", 
-                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway"
+                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
             }
         ], 
         "small": "", 
@@ -903,7 +1053,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4188, 
+                "state": "confirmed", 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }, 
+            {
+                "id": 4141, 
+                "state": "confirmed", 
+                "title": "Developing USB Host and Device Applications with MPLAB® Harmony USB Stack (USB6)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -930,7 +1091,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4162, 
+                "state": "confirmed", 
+                "title": "Ethernet Hardware Design, Test, and Debug From Schematic to First Packet (LAN1)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -957,7 +1124,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4173, 
+                "state": "confirmed", 
+                "title": "motorBench™ Development Suite: Part 2 New Motor Control Algorithms (MC2)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -984,7 +1157,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4175, 
+                "state": "confirmed", 
+                "title": "Motor Control for White goods Applications (MC5)"
+            }, 
+            {
+                "id": 4174, 
+                "state": "confirmed", 
+                "title": "Control System Design for Motor Control Applications (MC4)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1011,7 +1195,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4175, 
+                "state": "confirmed", 
+                "title": "Motor Control for White goods Applications (MC5)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1038,7 +1228,23 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4144, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Switch- Mode Power Converters (PC1)"
+            }, 
+            {
+                "id": 4177, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
+            }, 
+            {
+                "id": 4202, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1065,7 +1271,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4176, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Switch- Mode Power Converter Control (PC2)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1092,7 +1304,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4173, 
+                "state": "confirmed", 
+                "title": "motorBench™ Development Suite: Part 2 New Motor Control Algorithms (MC2)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1119,7 +1337,38 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4168, 
+                "state": "confirmed", 
+                "title": "Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }, 
+            {
+                "id": 4146, 
+                "state": "confirmed", 
+                "title": "The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4183, 
+                "state": "confirmed", 
+                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4200, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }, 
+            {
+                "id": 4195, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Connecting your IoT Device with LoRaWAN™ to The Things Network A Global IoT Data Network (IoT3)"
+            }, 
+            {
+                "id": 4185, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1150,7 +1399,7 @@
             {
                 "id": 4134, 
                 "state": "confirmed", 
-                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins"
+                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins (DEV2)"
             }
         ], 
         "small": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2958/small/MWllS1IraS/small", 
@@ -1206,7 +1455,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4144, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Switch- Mode Power Converters (PC1)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1233,7 +1488,13 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4174, 
+                "state": "confirmed", 
+                "title": "Control System Design for Motor Control Applications (MC4)"
+            }
+        ], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1260,178 +1521,7 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "", 
-        "sessions": [
-            {
-                "id": 4138, 
-                "state": "confirmed", 
-                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
-            }, 
-            {
-                "id": 4142, 
-                "state": "confirmed", 
-                "title": "Getting Started with Bluetooth® Low Energy (BLE) Development"
-            }, 
-            {
-                "id": 4148, 
-                "state": "confirmed", 
-                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter"
-            }, 
-            {
-                "id": 4151, 
-                "state": "confirmed", 
-                "title": "Functional Safety - Developing a safe motor control"
-            }, 
-            {
-                "id": 4153, 
-                "state": "confirmed", 
-                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
-            }, 
-            {
-                "id": 4155, 
-                "state": "confirmed", 
-                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces"
-            }, 
-            {
-                "id": 4157, 
-                "state": "confirmed", 
-                "title": "Setting Up Classic CAN (Controller Area Network) Node"
-            }, 
-            {
-                "id": 4161, 
-                "state": "confirmed", 
-                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices"
-            }, 
-            {
-                "id": 4163, 
-                "state": "confirmed", 
-                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
-            }, 
-            {
-                "id": 4164, 
-                "state": "confirmed", 
-                "title": "Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
-            }, 
-            {
-                "id": 4171, 
-                "state": "confirmed", 
-                "title": "High-Precision Analog Applications Using Amplifiers"
-            }, 
-            {
-                "id": 4172, 
-                "state": "confirmed", 
-                "title": "Precision Remote Temperature Sensing for Embedded Systems"
-            }, 
-            {
-                "id": 4178, 
-                "state": "confirmed", 
-                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems"
-            }, 
-            {
-                "id": 4179, 
-                "state": "confirmed", 
-                "title": "LEDs And LED Drivers For General Lighting"
-            }, 
-            {
-                "id": 4180, 
-                "state": "confirmed", 
-                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today"
-            }, 
-            {
-                "id": 4181, 
-                "state": "confirmed", 
-                "title": "Electromagnetic Compatibility (EMC) Demystified!"
-            }, 
-            {
-                "id": 4184, 
-                "state": "confirmed", 
-                "title": "Introduction to Embedded Linux"
-            }, 
-            {
-                "id": 4185, 
-                "state": "confirmed", 
-                "title": "Advanced Topics in Embedded Linux"
-            }, 
-            {
-                "id": 4186, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Getting Started with Bluetooth® Low Energy (BLE) Development"
-            }, 
-            {
-                "id": 4187, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Creating simple PIC32 embedded applications using MPLAB® Harmony"
-            }, 
-            {
-                "id": 4189, 
-                "state": "confirmed", 
-                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library )"
-            }, 
-            {
-                "id": 4191, 
-                "state": "confirmed", 
-                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite"
-            }, 
-            {
-                "id": 4193, 
-                "state": "confirmed", 
-                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
-            }, 
-            {
-                "id": 4194, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Setting Up Classic CAN (Controller Area Network) Node"
-            }, 
-            {
-                "id": 4196, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices"
-            }, 
-            {
-                "id": 4197, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Introduction to the MPLAB® Harmony TCP/ IP Stack"
-            }, 
-            {
-                "id": 4198, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400"
-            }, 
-            {
-                "id": 4200, 
-                "state": "confirmed", 
-                "title": "(REPEAT)  Introduction to Embedded Linux"
-            }, 
-            {
-                "id": 4202, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control"
-            }, 
-            {
-                "id": 4203, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000"
-            }, 
-            {
-                "id": 4206, 
-                "state": "confirmed", 
-                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads"
-            }, 
-            {
-                "id": 4207, 
-                "state": "confirmed", 
-                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers"
-            }, 
-            {
-                "id": 4208, 
-                "state": "confirmed", 
-                "title": "Academic Track (University & Training Partners)"
-            }, 
-            {
-                "id": 4209, 
-                "state": "confirmed", 
-                "title": "Choosing Clock solutions for Smart, Connected Appliances"
-            }
-        ], 
+        "sessions": [], 
         "small": "", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1458,7 +1548,18 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2961/icon/K2Z5V1E1eC/icon", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4191, 
+                "state": "confirmed", 
+                "title": "(REPEAT) PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
+            }, 
+            {
+                "id": 4139, 
+                "state": "confirmed", 
+                "title": "PIC32 Graphics Development with MPLAB® Harmony Graphics Composer Suite (GFX1)"
+            }
+        ], 
         "small": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2961/small/Q2dsd3IrT1/small", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
@@ -1518,10 +1619,1250 @@
         "gender": null, 
         "heard-from": null, 
         "icon": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2963/icon/WGtVQjBIRE/icon", 
-        "sessions": [], 
+        "sessions": [
+            {
+                "id": 4177, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
+            }, 
+            {
+                "id": 4202, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Fundamentals of Digital Switched-Mode Power Converter Control (PC4)"
+            }, 
+            {
+                "id": 4176, 
+                "state": "confirmed", 
+                "title": "Fundamentals of Switch- Mode Power Converter Control (PC2)"
+            }
+        ], 
         "small": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2963/small/MVU4cUwvOG/small", 
         "speaking-experience": "", 
         "sponsorship-required": "", 
         "thumbnail": "https://storage.googleapis.com/eventyay.com/events/299/speakers/2963/thumbnail/b09uTWtXZT/thumbnail"
+    }, 
+    {
+        "id": 3008, 
+        "name": "Vinaya Skanda", 
+        "email": "Vinaya.Skanda@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4148, 
+                "state": "confirmed", 
+                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter (PNP6)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3013, 
+        "name": "Rohan Nayak", 
+        "email": "Rohan.Nayak@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Application Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4190, 
+                "state": "confirmed", 
+                "title": "(REPEAT) MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
+            }, 
+            {
+                "id": 4136, 
+                "state": "confirmed", 
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3014, 
+        "name": "Harsha Jagadish", 
+        "email": "Harsha.Jagadish@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Senior Product Marketing Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4133, 
+                "state": "confirmed", 
+                "title": "The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
+            }, 
+            {
+                "id": 4182, 
+                "state": "confirmed", 
+                "title": "(REPEAT) The Latest MCUs, MPUs, USB and Ethernet Networking Products from Microchip (PNP1)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3006, 
+        "name": "Nagesh Prasad", 
+        "email": "Nagesh.Prasad@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Softwares", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4134, 
+                "state": "confirmed", 
+                "title": "Getting Started with Microchip Development Tools: MPLAB® X IDE, Simulators, Debuggers, and Plug-Ins (DEV2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3007, 
+        "name": "Sai Prasad", 
+        "email": "Sai.Prasad@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4148, 
+                "state": "confirmed", 
+                "title": "Learn How to Use AVR® Core Independent Peripherals (CIPs) by Developing an Infrared Transmitter (PNP6)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3009, 
+        "name": "Kalyan Chakravarthy Manukonda", 
+        "email": "KalyanChakravarthy.Manukonda@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Applications", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4166, 
+                "state": "confirmed", 
+                "title": "Authentication and Secure Communications for IoT Projects using AWS IoT (SEC3)"
+            }, 
+            {
+                "id": 4165, 
+                "state": "confirmed", 
+                "title": "Developing Secure Applications with Crypto Authentication Devices (SEC2)"
+            }, 
+            {
+                "id": 4184, 
+                "state": "confirmed", 
+                "title": "Introduction to Embedded Linux (LNX2)"
+            }, 
+            {
+                "id": 4199, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Developing Secure Applications with Crypto Authentication Devices (SEC2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3010, 
+        "name": "Swapna Gurumani", 
+        "email": "Swapna.Gurumani@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Applications", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4184, 
+                "state": "confirmed", 
+                "title": "Introduction to Embedded Linux (LNX2)"
+            }, 
+            {
+                "id": 4185, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }, 
+            {
+                "id": 4200, 
+                "state": "confirmed", 
+                "title": "Advanced Topics in Embedded Linux (LNX3)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3016, 
+        "name": "Muhsin Vilangappurath", 
+        "email": "Muhsin.Vilangappurath@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Embedded Solutions Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4146, 
+                "state": "confirmed", 
+                "title": "The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4183, 
+                "state": "confirmed", 
+                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4171, 
+                "state": "confirmed", 
+                "title": "High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4180, 
+                "state": "confirmed", 
+                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today (BAT2)"
+            }, 
+            {
+                "id": 4181, 
+                "state": "confirmed", 
+                "title": "Electromagnetic Compatibility (EMC) Demystified! (SIG1)"
+            }, 
+            {
+                "id": 4207, 
+                "state": "confirmed", 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4193, 
+                "state": "confirmed", 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4209, 
+                "state": "confirmed", 
+                "title": "Choosing Clock solutions for Smart, Connected Appliances (PNP11)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3017, 
+        "name": "Rajesh Kumar", 
+        "email": "Rajesh.Kumar@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Embedded Solutions", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4172, 
+                "state": "confirmed", 
+                "title": "Precision Remote Temperature Sensing for Embedded Systems (AMS4)"
+            }, 
+            {
+                "id": 4181, 
+                "state": "confirmed", 
+                "title": "Electromagnetic Compatibility (EMC) Demystified! (SIG1)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3019, 
+        "name": "Pradeep Budagutta", 
+        "email": "Pradeep.Budagutta@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Manager MCU16 Apps", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4152, 
+                "state": "confirmed", 
+                "title": "Easy Bootloader Library  (BTL2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3011, 
+        "name": "Jyoti", 
+        "email": "Jyoti.Shrinivas@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer - MCU 8 Apps", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4136, 
+                "state": "confirmed", 
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3012, 
+        "name": "Kavya Shastri", 
+        "email": "Kavya.Shastri@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Application Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4136, 
+                "state": "confirmed", 
+                "title": "MPLAB® Code Configurator (MCC) for Simplified Embedded Software Development (DEV4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3018, 
+        "name": "Mohamed Saheed", 
+        "email": "Mohamed.Saheed@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer - Software", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4135, 
+                "state": "confirmed", 
+                "title": "Learn the True Power of the MPLAB® Simulator (DEV3)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3015, 
+        "name": "Jabir Vettikattu", 
+        "email": "Jabir.Vettikattu@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Embedded Solutions", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4172, 
+                "state": "confirmed", 
+                "title": "Precision Remote Temperature Sensing for Embedded Systems (AMS4)"
+            }, 
+            {
+                "id": 4151, 
+                "state": "confirmed", 
+                "title": "Functional Safety - Developing a safe motor control (FS1)"
+            }, 
+            {
+                "id": 4178, 
+                "state": "confirmed", 
+                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems (PC5)"
+            }, 
+            {
+                "id": 4209, 
+                "state": "confirmed", 
+                "title": "Choosing Clock solutions for Smart, Connected Appliances (PNP11)"
+            }, 
+            {
+                "id": 4146, 
+                "state": "confirmed", 
+                "title": "The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }, 
+            {
+                "id": 4183, 
+                "state": "confirmed", 
+                "title": "(REPEAT) The Latest Wireless, Analog, and Touch- Interface Products (PNP2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3034, 
+        "name": "Hamzath Mohammed", 
+        "email": "Hamzath.Mohammed@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Staff Engineer - Software Development", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4151, 
+                "state": "confirmed", 
+                "title": "Functional Safety - Developing a safe motor control (FS1)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3027, 
+        "name": "Sujith Pillai", 
+        "email": "Sujith.Pillai@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "CAE", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4169, 
+                "state": "confirmed", 
+                "title": "Bluetooth® Low Energy (BLE) to Wi-Fi IoT Gateway (IoT5)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3031, 
+        "name": "Niranjan Bharadwaj", 
+        "email": "Niranjan.Bharadwaj@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4163, 
+                "state": "confirmed", 
+                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }, 
+            {
+                "id": 4198, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3032, 
+        "name": "Vivek Kumar", 
+        "email": "Vivek.Kumar@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Embedded Solutions", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4198, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }, 
+            {
+                "id": 4163, 
+                "state": "confirmed", 
+                "title": "Adding wireless functionality to a host using a network controller like WINC15X0 or WINC3400 (NET2)"
+            }, 
+            {
+                "id": 4180, 
+                "state": "confirmed", 
+                "title": "Battery Charging Fundamentals, Charging Solutions, and Firmware Support for Real Products in the Market Today (BAT2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3033, 
+        "name": "Mohit Mohan", 
+        "email": "Mohit.Mohan@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "CAE", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4150, 
+                "state": "confirmed", 
+                "title": "Control Panel Application with lwIP stack on SAM 32-bit MCUs (AD4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3020, 
+        "name": "Manoj Kundwani", 
+        "email": "Manoj.Kundwani@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer - Software", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4155, 
+                "state": "confirmed", 
+                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces (TNG3)"
+            }, 
+            {
+                "id": 4206, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }, 
+            {
+                "id": 4153, 
+                "state": "confirmed", 
+                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3022, 
+        "name": "Sathish Siddaiah", 
+        "email": "Sathish.Siddaiah@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "FAE", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4196, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }, 
+            {
+                "id": 4186, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Getting Started with Bluetooth® Low Energy (BLE) Development (BLU1)"
+            }, 
+            {
+                "id": 4142, 
+                "state": "confirmed", 
+                "title": "Getting Started with Bluetooth® Low Energy (BLE) Development (BLU1)"
+            }, 
+            {
+                "id": 4161, 
+                "state": "confirmed", 
+                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3024, 
+        "name": "Lincy Selvakumari Jeyakumar", 
+        "email": "LincySelvakumari.Jeyakumar@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Engineer - Software Development", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4138, 
+                "state": "confirmed", 
+                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }, 
+            {
+                "id": 4189, 
+                "state": "confirmed", 
+                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3023, 
+        "name": "Kanchana S", 
+        "email": "Kanchana.S@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Applications", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4161, 
+                "state": "confirmed", 
+                "title": "Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }, 
+            {
+                "id": 4196, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Embedded Applications using Programmable Bluetooth Low Energy Devices (BLU4)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3028, 
+        "name": "Vivek Gunapati", 
+        "email": "Vivek.Gunapati@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "CAE", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4170, 
+                "state": "confirmed", 
+                "title": "Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
+            }, 
+            {
+                "id": 4205, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Welcome to IoT! ZigBee to Wi-Fi Gateway (IoT7)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3030, 
+        "name": "Manmohan Singh Gusain", 
+        "email": "Manmohan.SinghGusain@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr. FAE", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4171, 
+                "state": "confirmed", 
+                "title": "High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4193, 
+                "state": "confirmed", 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4207, 
+                "state": "confirmed", 
+                "title": "(REPEAT) High-Precision Analog Applications Using Amplifiers (AMS2)"
+            }, 
+            {
+                "id": 4151, 
+                "state": "confirmed", 
+                "title": "Functional Safety - Developing a safe motor control (FS1)"
+            }, 
+            {
+                "id": 4178, 
+                "state": "confirmed", 
+                "title": "Digitally Enhanced Power Analog - what is it and how you can take advantage of this unique approach to developing configurable, intelligent power systems (PC5)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3035, 
+        "name": "Jagan Jothivel", 
+        "email": "Jagan.Jothivel@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "University Program Manager", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4208, 
+                "state": "confirmed", 
+                "title": "Academic Track (University & Training Partners)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3021, 
+        "name": "Kamalakannan Manivasagam", 
+        "email": "Kamalakannan.Manivasagam@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Applications", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4153, 
+                "state": "confirmed", 
+                "title": "Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }, 
+            {
+                "id": 4206, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Introduction to Microchip's Touch Solutions - Buttons, sliders, wheels, proximity, touch pads (TNG1)"
+            }, 
+            {
+                "id": 4155, 
+                "state": "confirmed", 
+                "title": "Noise - no problem! Water - no problem! How to design ultrarobust capacitive touch interfaces (TNG3)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3025, 
+        "name": "Minish Vijayakumar", 
+        "email": "Minish.Vijayakumar@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr Engineer - Applications", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4138, 
+                "state": "confirmed", 
+                "title": "Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }, 
+            {
+                "id": 4189, 
+                "state": "confirmed", 
+                "title": "(REPEAT)  Implementing touch Buttons and Sliders using Microchip Tools and libraries (MCC+mTOUCH library or START+QTouch library ) (TNG2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3026, 
+        "name": "Mike Skow Team", 
+        "email": "Mike.Skow@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Sr. Manager MCU32 Apps", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4156, 
+                "state": "confirmed", 
+                "title": "Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony (GFX2)"
+            }, 
+            {
+                "id": 4201, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Developing accelerated graphics applications with Next-Generation High-Performance PIC32MZ Graphics (DA) Family and MPLAB® Harmony  (GFX2)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3029, 
+        "name": "Saravanakumar Sundaram", 
+        "email": "Saravanakumar.Sundaram@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Principal Engineer", 
+        "country": "India", 
+        "short-biography": "", 
+        "long-biography": "", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4164, 
+                "state": "confirmed", 
+                "title": "Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000 (NET3)"
+            }, 
+            {
+                "id": 4203, 
+                "state": "confirmed", 
+                "title": "(REPEAT) Adding wireless functionality to a host using a Link Controller like WILC1000 or WILC3000 (NET3)"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
+    }, 
+    {
+        "id": 3036, 
+        "name": "Joe Krawczyk", 
+        "email": "Joe.Krawczyk@m.com", 
+        "mobile": null, 
+        "photo-url": "", 
+        "organisation": "Microchip Technology", 
+        "position": "Vice President of Asia Pacific Sales", 
+        "country": "India", 
+        "short-biography": "Joe Krawczyk, Vice President of Asia Pacific Sales, is responsible for leading Microchip's revenue growth throughout the region.", 
+        "long-biography": "Based in Hong Kong Krawczyk has an in-depth understanding of Microchip, having worked in a variety of roles in the last 16 years.   He began his career with Microchip in 1995 in microcontroller marketing in Chandler, Arizona.  He transitioned from US microcontroller marketing manager to US Southeast regional sales manager in 2000. He came to Asia in 2003 as the ASEAN regional sales manager based in Singapore. In 2004 he was promoted to Director of Asia Pacific Distribution and relocated to Hong Kong shortly thereafter.  In 2007 Krawczyk assumed the role of Vice President of Asia Pacific Sales. Before joining Microchip, Krawczyk worked in various engineering, marketing and management positions at Texas Instruments for 14 years. Krawczyk holds a BS in computer technology from the University of Southern Mississippi and an MBA from Saint Edwards University, Austin, Texas. 
+", 
+        "website": null, 
+        "twitter": null, 
+        "facebook": null, 
+        "github": null, 
+        "linkedin": null, 
+        "city": null, 
+        "is-featured": false, 
+        "gender": null, 
+        "heard-from": null, 
+        "icon": "", 
+        "sessions": [
+            {
+                "id": 4243, 
+                "state": "confirmed", 
+                "title": "MASTERs Keynote"
+            }
+        ], 
+        "small": "", 
+        "speaking-experience": "", 
+        "sponsorship-required": "", 
+        "thumbnail": ""
     }
 ]
